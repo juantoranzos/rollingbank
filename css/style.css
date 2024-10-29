@@ -1,0 +1,29 @@
+li{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+#cuatroiconos{
+    position: relative;
+    left: 10%;
+}
+
+#losh{
+    text-align: left;
+}
+.carousel-inner{
+    height: 400px;
+   
+}
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #features h3 {
+    color: #333;
+  }
+  
+  .card-body img {
+    border
+  
